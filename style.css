@@ -27,7 +27,7 @@ img {
 
 
 .container {
-  max-width: 1140px;
+  max-width: 1200px;
   padding: 1.5rem;
 
 
@@ -80,7 +80,7 @@ img {
 
 .test-bottom {
   color: white;
-  opacity: 0.875;
+  opacity: 0.8;
   font-size: 0.8rem;
   font-weight: 500;
   line-height: 150%;
